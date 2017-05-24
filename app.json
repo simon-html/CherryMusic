@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#CC6699",
+    "navigationBarTitleText": "樱桃音乐",
+    "navigationBarTextStyle":"write"  
+  }
+} 
