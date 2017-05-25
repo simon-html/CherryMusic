@@ -1,6 +1,8 @@
 {
   "pages":[
-    "pages/index/index"
+    "pages/index/index",
+    "pages/Ranking/Ranking",
+    "pages/search/search"
   ],
   "window":{
     "backgroundTextStyle":"light",
