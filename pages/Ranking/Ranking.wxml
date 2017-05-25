@@ -1,0 +1,3 @@
+<!--pages/Ranking/Ranking.wxml-->
+<import src="../../template/navbar/navbar.wxml"/>
+<template is="navbar" data="{{ currentArr }}"></template>

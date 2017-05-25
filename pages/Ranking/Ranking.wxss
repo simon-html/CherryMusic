@@ -1,0 +1,2 @@
+/* pages/Ranking/Ranking.wxss */
+@import '../../template/navbar/navbar.wxss';

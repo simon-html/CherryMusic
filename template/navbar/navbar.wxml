@@ -1,0 +1,8 @@
+<template name="navbar">
+  <view class="nav">
+    <view wx:for="{{ currentArr }}" class="recommend {{ item.current ? 'current' : '' }}">
+       <view bindtap="navTap">{{ item.title }}</view>
+       <view class="{{ item.current ? 'currentbox' : '' }}"></view>
+    </view>
+  </view>
+</template>
